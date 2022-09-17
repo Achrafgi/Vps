@@ -1,0 +1,51 @@
+
+.login{
+    height: 500px;
+    padding-top: 100px;
+}
+.img-slider{
+    height: 500px !important;
+}
+.slider{
+    background: #667175;
+}
+/* .product-view{
+    height: 600px;
+} */
+.carousel-caption{
+    color: rgb(29, 29, 29);
+    background: rgba(189, 189, 189, 0.85) !important;
+}
+.img-trending{
+    height: 100px;
+}
+.trending-item{
+    float: left;
+    width: 20%;
+}
+.img-detail{
+    height: 350px;
+}
+.search-box{
+    width: 250px !important;
+}
+.img-result{
+    height: 150px;
+}
+
+/* Hide input arrow */
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.footer{
+    clear: both;
+}
